@@ -9,7 +9,11 @@
 # Untracked files:
 #   (use "git add <file>..." to include in what will be committed)
 #
+<<<<<<< HEAD
 #	reset.txtaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+=======
+#	reset.txt
+>>>>>>> main
 [root@VmJasonPan_10.10.10.11 /data/reset]# git log --pretty=format:"%h - %an, %ar : %s" --graph
 * da97fd9 - aoozoo, 7 minutes ago : B
 * de2f541 - aoozoo, 7 minutes ago : A
